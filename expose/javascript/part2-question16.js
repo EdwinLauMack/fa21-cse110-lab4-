@@ -1,0 +1,8 @@
+let statistics = {redCars: 21, blueCars: 45, greenCars: 12, raceCars: 5, blackCars: 40, rareCars: 2 };
+
+for(const property in statistics){ //stores the value of each eelement in statistics in property
+    if(`${property}`.charAt(0) == 'r' || `${statistics[property]}` % 2 != 0 ) //checks the character at index 0 if it is r OR if the value mapped of property is odd
+    {
+        console.log(`${property} ${statistics[property]}`);
+    }
+};
