@@ -1,10 +1,18 @@
-Question 1: It will print out how many discounted prices were given, in this case it is 3. If we were to send a bigger input length on the price parameter of the function when we call it, the number of how many discounted prices will change accordingly to the size of the input length of the price parameter
+Question 1: 
 
-Question 2: It will print out the discounted price from the last element given in the price array, which in this case is 150
+It will print out how many discounted prices were given, in this case it is 3. If we were to send a bigger input length on the price parameter of the function when we call it, the number of how many discounted prices will change accordingly to the size of the input length of the price parameter
 
-Question 3: It will print out the final price of the last element given in the price array, which in this case is 150
+Question 2: 
 
-Question 4: The function returns an array of final prices after it has been discounted. Thus, in this case it will output [50, 100, 150]
+It will print out the discounted price from the last element given in the price array, which in this case is 150
+
+Question 3: 
+
+It will print out the final price of the last element given in the price array, which in this case is 150
+
+Question 4: 
+
+The function returns an array of final prices after it has been discounted. Thus, in this case it will output [50, 100, 150]
 
 Question 5: 
 
